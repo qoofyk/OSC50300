@@ -1,0 +1,3 @@
+Before fork
+Child was here (file pointer position=12).
+Parent was here (file pointer postion=55)
